@@ -1,0 +1,27 @@
+html, body {
+  margin: auto;
+  padding: 0;
+  background-color: rgb(25, 25, 25);
+  width: 80%;
+}
+
+p{
+  text-align: center;
+  color: white;
+}
+
+h2{
+  text-align: center;
+  color: lightyellow;
+}
+
+canvas {
+  margin:auto;
+  display: block;
+}
+
+img{
+  width: 300px;
+  margin:auto;
+  display: block;
+}
